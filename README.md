@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Yoka346, sophomore of a university in Japan. I major in Computer Science.
-- 👀 I’m interested in C# and AI.
-- 🌱 I’m currently learning about NN.
+- 👋 Hi, I’m @Yoka346, senior student of a university in Japan. I major in Computer Science.
+- 👀 I’m interested in C#, C++ and Game AI.
+- 🌱 I’m currently learning about Game AI.
 
 <!---
 Yoka346/Yoka346 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
