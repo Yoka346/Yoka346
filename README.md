@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yoka346, senior student of a university in Japan. I major in Computer Science.
+- 👋 Hi, I’m @Yoka346, M1 student of a university in Japan. I major in Computer Science.
 - 👀 I’m interested in C#, C++ and Game AI.
 - 🌱 I’m currently learning about Game AI.
 
